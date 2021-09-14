@@ -14,6 +14,7 @@ This is a pretty full featured implementation of a path tracing algorithms featu
 ![](Raytracing1.png)
 ![](Raytracing2.png)
 ![](Raytracing3.png)
+![](Dragon.png)
 
 
 
